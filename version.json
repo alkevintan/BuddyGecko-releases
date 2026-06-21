@@ -1,0 +1,7 @@
+{
+  "latestVersionCode": 1,
+  "latestVersionName": "0.1.0-beta1",
+  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.1.0-beta1/buddygecko.apk",
+  "changelog": "First beta. Deezer discovery, JioSaavn playback, library + playlists, queue, song/album/artist detail, lyrics, OTA self-update.",
+  "mirrors": []
+}

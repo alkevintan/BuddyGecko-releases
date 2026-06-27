@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "0.1.0-beta1",
-  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.1.0-beta1/buddygecko.apk",
-  "changelog": "First beta. Deezer discovery, JioSaavn playback, library + playlists, queue, song/album/artist detail, lyrics, OTA self-update.",
+  "latestVersionCode": 2,
+  "latestVersionName": "0.1.0-beta2",
+  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.1.0-beta2/buddygecko.apk",
+  "changelog": "Deezer backend (metadata + streams). UI redesign across Home/Search/Library/Settings/Now-Playing/detail. Artist albums, playlist search, artist radio, per-device listening history + statistics, lyrics skeleton loading. Tablet-optimised: NavigationRail, multi-column grids, two-column Now-Playing, capped/centered content.",
   "mirrors": []
 }

@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "0.1.0-beta3",
-  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.1.0-beta3/buddygecko-tv.apk",
-  "changelog": "Android TV variant: new 'tv' flavor (D-pad navigation, leanback banner, side-by-side install as sg.com.a21.buddygecko.tv). Hardened unknown-sources install fallback for TV. release.sh now ships both phone + TV APKs and updates version.json + version-tv.json.",
+  "latestVersionCode": 4,
+  "latestVersionName": "0.1.0",
+  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.1.0/buddygecko-tv.apk",
+  "changelog": "First stable release.\n\nNew in 0.1.0:\n- Android TV: bold gecko-green focus ring makes the D-pad cursor obvious across interactive elements\n- Android TV: global media-key support (play / pause / next / prev / stop from anywhere)\n- Android TV: 'Now Playing' rail shortcut + structural focus containment while the player is open\n- Android TV: branded launcher banner (gecko + BuddyGecko wordmark)\n- Android TV: tab scroll state preserved across player/detail round-trips\n- Bugfix: search-field focus tick no longer re-fires the keyboard after screen remount",
   "mirrors": []
 }

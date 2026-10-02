@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "0.1.0",
-  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.1.0/buddygecko-tv.apk",
-  "changelog": "First stable release.\n\nNew in 0.1.0:\n- Android TV: bold gecko-green focus ring makes the D-pad cursor obvious across interactive elements\n- Android TV: global media-key support (play / pause / next / prev / stop from anywhere)\n- Android TV: 'Now Playing' rail shortcut + structural focus containment while the player is open\n- Android TV: branded launcher banner (gecko + BuddyGecko wordmark)\n- Android TV: tab scroll state preserved across player/detail round-trips\n- Bugfix: search-field focus tick no longer re-fires the keyboard after screen remount",
+  "latestVersionCode": 5,
+  "latestVersionName": "0.2.0",
+  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.2.0/buddygecko-tv.apk",
+  "changelog": "New backend: discovery now comes from YouTube Music and audio is resolved on device with yt-dlp \u2014 no more Deezer account/ARL. Search, charts, genres, artists, albums, playlists and radio all use YouTube Music. Requires Android 7.0+ (minSdk 24).",
   "mirrors": []
 }

@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "0.2.0",
-  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.2.0/buddygecko.apk",
-  "changelog": "New backend: discovery now comes from YouTube Music and audio is resolved on device with yt-dlp \u2014 no more Deezer account/ARL. Search, charts, genres, artists, albums, playlists and radio all use YouTube Music. Requires Android 7.0+ (minSdk 24).",
+  "latestVersionCode": 6,
+  "latestVersionName": "0.2.1",
+  "apkUrl": "https://github.com/alkevintan/BuddyGecko-releases/releases/download/v0.2.1/buddygecko.apk",
+  "changelog": "Fixed playback (HTTP 403). Audio now resolves in about a second via a direct YouTube Music player call, with the bundled yt-dlp as a fallback. Seeking and next-track prefetch work.",
   "mirrors": []
 }
